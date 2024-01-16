@@ -7,6 +7,18 @@ Primeiro projeto de SIO (Segurança Informática e nas Organizações) 2023/2024
 Este projeto foi realizado com o objetivo de criar um website dedicado à exploração de vulnerabilidades em sistemas de software, de modo a aprofundar o nosso entendimento das potenciais falhas de segurança que os sistemas podem apresentar, bem como prevenir as mesmas.
 
 
+## Contributors
+
+- [Diogo Falcao](https://github.com/falcaodiogo)
+- [Jota CLS](https://github.com/JotaCLS)
+- [Matilde Tex](https://github.com/matildetex)
+- [Bernardo C](https://github.com/beernardoc)
+
+## Final Grade
+
+The project received a final grade of 15.1.
+
+
 ## Vulnerabilidades exploradas
 
 * CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
